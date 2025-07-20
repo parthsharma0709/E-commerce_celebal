@@ -21,6 +21,9 @@ if(!size)
     return;
 }
 
+
+
+
 let cartData = structuredClone(cartItems);
 
 if(cartData[itemId])
